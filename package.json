@@ -39,6 +39,7 @@
     "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
-    "@babel/preset-env": "^7.23.2"
+    "@babel/preset-env": "^7.23.2",
+    "normalize.css": "^8.0.1"
   }
 }
